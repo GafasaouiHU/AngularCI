@@ -1,2 +1,0 @@
-# AngularCI
-pipeline
